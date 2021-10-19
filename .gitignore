@@ -13,10 +13,7 @@ yarn.lock
 /coverage
 
 # production
-/build
-dist
-/idea
-/.idea
+
 
 # misc
 .DS_Store
